@@ -7,9 +7,9 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/rjNemo/sandbox/data"
-	"github.com/rjNemo/sandbox/error"
-	model "github.com/rjNemo/sandbox/models"
+	"github.com/rjNemo/go-api-template/data"
+	"github.com/rjNemo/go-api-template/error"
+	model "github.com/rjNemo/go-api-template/models"
 )
 
 // CreateEvent add an event to data

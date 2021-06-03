@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	middleware "github.com/rjNemo/sandbox/middlewares"
-	"github.com/rjNemo/sandbox/router"
+	middleware "github.com/rjNemo/go-api-template/middlewares"
+	"github.com/rjNemo/go-api-template/router"
 )
 
 const (

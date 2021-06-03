@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/rjNemo/sandbox/error"
+	"github.com/rjNemo/go-api-template/error"
 )
 
 const todoURI = "https://jsonplaceholder.typicode.com/todos/1"

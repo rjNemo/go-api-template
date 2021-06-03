@@ -1,5 +1,5 @@
-module github.com/rjNemo/sandbox
+module github.com/rjNemo/go-api-template
 
-go 1.14
+go 1.16
 
-require github.com/gorilla/mux v1.7.4
+require github.com/gorilla/mux v1.8.0 // indirect

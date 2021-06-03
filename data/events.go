@@ -1,6 +1,6 @@
 package data
 
-import model "github.com/rjNemo/sandbox/models"
+import model "github.com/rjNemo/go-api-template/models"
 
 // AllEvents exposes all events objects
 var AllEvents = []model.Event{

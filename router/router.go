@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/rjNemo/sandbox/api"
+	"github.com/rjNemo/go-api-template/api"
 )
 
 const (
